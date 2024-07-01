@@ -16,8 +16,8 @@
 | [GeneFormer](https://www.nature.com/articles/s41586-023-06139-9) | 04/2023 | scRNA | :white_check_mark: 已解读 |
 | [scGPT](https://www.nature.com/articles/s41592-024-02201-0) | 05/2023 | scRNA | :white_check_mark: 已解读 |
 | [DNABERT-2](https://arxiv.org/abs/2306.15006) | 06/2023 | DNA | :white_check_mark: 已解读 |
-| [scFoundation](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4) | 06/2023 | scRNA | :black_square_button: 准备中 |
-| [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA |
+| [scFoundation](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4) | 06/2023 | scRNA | :white_check_mark: 已解读 |
+| [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA | :black_square_button: 准备中 |
 | [xTrimoPGLM](https://arxiv.org/abs/2401.06199) | 01/2024 | Protein |
 | [gLM](https://www.nature.com/articles/s41467-024-46947-9) | 05/2023 | DNA |
 | [DNAGPT](https://arxiv.org/abs/2307.05628) | 07/2023 | DNA |
@@ -41,7 +41,7 @@
 | [Nucleotide Transformer](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3) | 01/2023 | DNA |
 
 
-## 已攥写文章目录
+## 文章目录
 - (一) 导论&引言：大模型时代下的计算生物学 [知乎文章](https://zhuanlan.zhihu.com/p/694454155)
 - (二) DNABERT 技术解读 [知乎文章](https://zhuanlan.zhihu.com/p/695657992)
 - (三) RNABERT 技术简报 [知乎文章](https://zhuanlan.zhihu.com/p/696708056)
@@ -49,3 +49,4 @@
 - (五) Geneformer 技术解读 ｜ 利用基因名字排序进行语言建模 [知乎文章](https://zhuanlan.zhihu.com/p/700679229)
 - (六) scGPT｜独特的 Tokenization 体系和生成式预训练策略下的单细胞基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/702698466)
 - (七) DNABERT-2 | BPE 和新技术加持下 DNABERT 的进化 [知乎文章](https://zhuanlan.zhihu.com/p/704373114) | [BPE 代码](notebooks/DNABERT2_Tokenizer.ipynb)
+- (八) scFoundation | Read-Depth-Aware 的 scRNA-seq 预训练基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/706311907)

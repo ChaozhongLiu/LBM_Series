@@ -17,8 +17,8 @@
 | [scGPT](https://www.nature.com/articles/s41592-024-02201-0) | 05/2023 | scRNA | :white_check_mark: 已解读 |
 | [DNABERT-2](https://arxiv.org/abs/2306.15006) | 06/2023 | DNA | :white_check_mark: 已解读 |
 | [scFoundation](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4) | 06/2023 | scRNA | :white_check_mark: 已解读 |
-| [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA | :black_square_button: 准备中 |
-| [xTrimoPGLM](https://arxiv.org/abs/2401.06199) | 01/2024 | Protein |
+| [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA | :white_check_mark: 已解读 |
+| [xTrimoPGLM](https://arxiv.org/abs/2401.06199) | 01/2024 | Protein | :black_square_button: 准备中 |
 | [gLM](https://www.nature.com/articles/s41467-024-46947-9) | 05/2023 | DNA |
 | [DNAGPT](https://arxiv.org/abs/2307.05628) | 07/2023 | DNA |
 | [BigRNA](https://www.biorxiv.org/content/10.1101/2023.09.20.558508v1) | 09/2023 | RNA |
@@ -50,3 +50,4 @@
 - (六) scGPT｜独特的 Tokenization 体系和生成式预训练策略下的单细胞基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/702698466)
 - (七) DNABERT-2 | BPE 和新技术加持下 DNABERT 的进化 [知乎文章](https://zhuanlan.zhihu.com/p/704373114) | [BPE 代码](notebooks/DNABERT2_Tokenizer.ipynb)
 - (八) scFoundation | Read-Depth-Aware 的 scRNA-seq 预训练基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/706311907)
+- (九) HyenaDNA 技术解读 | 基于 Hyena 架构的超长 DNA 序列预训练模型 [知乎文章](https://zhuanlan.zhihu.com/p/708848430)

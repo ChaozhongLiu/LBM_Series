@@ -19,13 +19,13 @@
 | [scFoundation](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4) | 06/2023 | scRNA | :white_check_mark: 已解读 |
 | [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA | :white_check_mark: 已解读 |
 | [DNAGPT](https://arxiv.org/abs/2307.05628) | 07/2023 | DNA | :white_check_mark: 已解读 |
-| [GeneCompass](https://www.nature.com/articles/s41422-024-01034-y) | 09/2023 | scRNA | :black_square_button: 准备中 |
+| [GeneCompass](https://www.nature.com/articles/s41422-024-01034-y) | 09/2023 | scRNA | :white_check_mark: 已解读 |
+| [Evo](https://www.science.org/doi/10.1126/science.ado9336) | 11/2024 | DNA | :black_square_button: 准备中 |
 | [Orthrus](https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1) | 10/2024 | RNA |  |
 | [xTrimoPGLM](https://arxiv.org/abs/2401.06199) | 01/2024 | Protein |
 | [gLM](https://www.nature.com/articles/s41467-024-46947-9) | 05/2023 | DNA |
 | [BigRNA](https://www.biorxiv.org/content/10.1101/2023.09.20.558508v1) | 09/2023 | RNA |
 | [SaProt](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2) | 10/2023 | Protein |
-| [Evo](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v2) | 02/2024 | DNA |
 | [UTR-LM](https://www.nature.com/articles/s42256-024-00823-9) | 02/2024 | RNA |
 | [GenePT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v2) | 03/2024 | scRNA |
 | [NicheFormer](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1) | 04/2024 | sc+Spatial RNA |
@@ -54,4 +54,5 @@
 - (八) scFoundation | Read-Depth-Aware 的 scRNA-seq 预训练基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/706311907)
 - (九) HyenaDNA 技术解读 | 基于 Hyena 架构的超长 DNA 序列预训练模型 [知乎文章](https://zhuanlan.zhihu.com/p/708848430)
 - (十) DNAGPT 技术解读 | 普适于多类下游任务的生成式预训练模型 [知乎文章](https://zhuanlan.zhihu.com/p/714612874)
+- (十一) GeneCompass | 知识驱动的跨物种单细胞基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/8553664471)
 

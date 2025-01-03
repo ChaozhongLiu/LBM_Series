@@ -20,8 +20,8 @@
 | [HyenaDNA](https://arxiv.org/abs/2306.15794) | 06/2023 | DNA | :white_check_mark: 已解读 |
 | [DNAGPT](https://arxiv.org/abs/2307.05628) | 07/2023 | DNA | :white_check_mark: 已解读 |
 | [GeneCompass](https://www.nature.com/articles/s41422-024-01034-y) | 09/2023 | scRNA | :white_check_mark: 已解读 |
+| [Orthrus](https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1) | 10/2024 | RNA | :white_check_mark: 已解读 |
 | [Evo](https://www.science.org/doi/10.1126/science.ado9336) | 11/2024 | DNA | :black_square_button: 准备中 |
-| [Orthrus](https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1) | 10/2024 | RNA |  |
 | [xTrimoPGLM](https://arxiv.org/abs/2401.06199) | 01/2024 | Protein |
 | [gLM](https://www.nature.com/articles/s41467-024-46947-9) | 05/2023 | DNA |
 | [BigRNA](https://www.biorxiv.org/content/10.1101/2023.09.20.558508v1) | 09/2023 | RNA |
@@ -34,6 +34,11 @@
 | [RNAErnie](https://www.nature.com/articles/s42256-024-00836-4) | 05/2024 | RNA |
 | [DrugLLM](https://arxiv.org/abs/2405.06690) | 05/2024 | Molecule |
 | [LucaOne](https://www.biorxiv.org/content/10.1101/2024.05.10.592927v1) | 05/2024 | Multi-Omics |
+| [RNAGenesis](https://www.biorxiv.org/content/10.1101/2024.12.30.630826v1) | 12/2024 | RNA |
+| [RhoFold+](https://www.nature.com/articles/s41592-024-02487-0) | 11/2024 | RNA |
+| [scLong](https://www.biorxiv.org/content/10.1101/2024.11.09.622759v2) | 11/2024 | scRNA |
+| [stFormer](https://www.biorxiv.org/content/10.1101/2024.09.27.615337v5) | 11/2024 | Spatial |
+
 
 
 还有一些没有计划解读的相关论文  
@@ -55,4 +60,6 @@
 - (九) HyenaDNA 技术解读 | 基于 Hyena 架构的超长 DNA 序列预训练模型 [知乎文章](https://zhuanlan.zhihu.com/p/708848430)
 - (十) DNAGPT 技术解读 | 普适于多类下游任务的生成式预训练模型 [知乎文章](https://zhuanlan.zhihu.com/p/714612874)
 - (十一) GeneCompass | 知识驱动的跨物种单细胞基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/8553664471)
+- (十二) Orthrus - 上 ｜预备知识：Mamba 架构 [知乎文章](https://zhuanlan.zhihu.com/p/12683528224)
+- (十三) Orthrus - 下 | 基于 Mamba 架构与对比学习的 RNA 基座模型 [知乎文章](https://zhuanlan.zhihu.com/p/14970067631)
 
